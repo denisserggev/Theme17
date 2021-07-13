@@ -1,3 +1,5 @@
 class Time{
-
+private:
+int h;
+int j;
 }

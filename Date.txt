@@ -1,3 +1,11 @@
 class Date{
+private:
+int year;
+int moonth;
+int day;
 
+public:
+void show(){
+
+}
 }
